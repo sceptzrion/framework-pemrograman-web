@@ -1,4 +1,4 @@
-# Progress Praktikum
+# Progress Framework Pemrograman Web
 Nama: Muhamad Ikhsan Rizqi Yanuar
 
 NPM: 2210631170131
